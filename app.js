@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000
 
 app.get('/', (_, res) => 
     res.json({
-        message: 'We will be live soon!!!!!'
+        message: 'We will be live soon!!!!!  🚀 🚀 🚀 🚀 🚀'
     })
 )
 
